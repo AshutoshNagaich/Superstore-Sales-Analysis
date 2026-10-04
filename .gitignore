@@ -1,0 +1,11 @@
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+data/*.csv
+anaconda_projects/
